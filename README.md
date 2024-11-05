@@ -1,1 +1,1 @@
-# Practicas Nextjs y React
+# Practicas Nextjs y Reactjs
